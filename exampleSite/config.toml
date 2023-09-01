@@ -44,12 +44,12 @@ canonifyurls = true
 # Author
 # ------
 [author]
-  name = "Firstname Lastname"
+  name = "Meghana prasad"
   bio = "Super bio with markdown support **COOL**"
-  job = "Your job title"
-  location = "France"
+  job = "devoloper"
+  location = "india"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = "thibaud.lepretre@gmail.com"
+  gravatarEmail = "nmeghanaprasad6@gmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
