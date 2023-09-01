@@ -1,5 +1,5 @@
 # Tranquilpeak
-# Version : 0.5.3-BETA
+# Version : 0.6.0-SNAPSHOT
 # Author : Thibaud Leprêtre
 
 # I STRONGLY recommend you to use a CDN to speed up loading of pages.
@@ -39,6 +39,10 @@ canonifyurls = true
     endLevel = 3
     ordered = false
     startLevel = 1
+  # In order to support HTML inside .md file
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 # ------
 # Author

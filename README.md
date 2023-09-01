@@ -28,7 +28,7 @@ How can I migrate my current version? Please read [CHANGELOG.md](https://github.
 ## General
 
 - **Authors**: [Thibaud Leprêtre (kakawait)](https://github.com/kakawait) and [Louis Barranqueiro (LouisBarranqueiro)](https://github.com/LouisBarranqueiro)
-- **Version**: 0.5.3-BETA (based on Hexo version 3.1.0)
+- **Version**: 0.6.0-SNAPSHOT (based on Hexo version 3.1.0)
 - **Compatibility**: Hugo v0.53
 
 ## Features
@@ -44,6 +44,7 @@ How can I migrate my current version? Please read [CHANGELOG.md](https://github.
 - Support Open Graph protocol
 - Easily customizable (fonts, colors, layout elements, code coloration, etc..)
 - Support internationalization (i18)
+- Dark mode
 
 **Posts features:**
 
@@ -56,6 +57,7 @@ How can I migrate my current version? Please read [CHANGELOG.md](https://github.
 - Image gallery
 - Tags for images (FancyBox), wide images, tabbed code blocks, highlighted text, alerts
 - Table of contents
+- Add diagrams and visualizations using text (https://mermaid-js.github.io/mermaid/#/)
 
 **Integrated services:**
 
